@@ -8,7 +8,7 @@
 
 
 ## REQUIREMENTS:
-###   ●	Mech Analyzer software.
+###   ●	Virtual Labs.
 ###   ●	Processor: Minimum 1.5 GHz
 ###   ●	RAM: Minimum 512 MB
 ###   ●	Operating System: Windows XP, Windows Vista, Windows 7, Windows 8 or higher.
