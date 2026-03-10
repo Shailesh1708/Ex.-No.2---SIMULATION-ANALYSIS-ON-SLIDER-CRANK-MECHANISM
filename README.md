@@ -16,13 +16,44 @@
 ###   ●	Mini Drafter.
 ###   ●	Geometry instruments.
 
-## PROCEDURE:
-###  Configuration diagram
-###  Assume scale 1:10
-###  1. Draw a horizontal line and locate C 
-###  2. At C, draw CB of length 20 mm inclined at 1200 
-###  3. With B as centre, BA 60mm, draw an arc to cut the horizontal at A. Join BA to complete the configuration diagram 
+## Procedure
 
+### Open the Virtual Lab for the Slider Crank Mechanism (Acceleration Analysis) experiment.
+
+### Identify the given parameters from the problem statement.
+
+### Length of crank CB (r) = 200 mm
+
+### Length of connecting rod BA (l) = 600 mm
+
+### Angular velocity of crank ω = 50 rad/s
+
+### Angular acceleration of crank α = 800 rad/s²
+
+### Determine the crank angle (θ) from the position shown in the diagram.
+### This angle is measured between the crank CB and the line of stroke of the slider.
+
+### Enter the input parameters in the simulation fields of the Virtual Lab:
+
+### Crank length r = 200 mm
+
+### Connecting rod length l = 600 mm
+
+### Crank angle θ = (value from the diagram)
+
+### Angular velocity ω = 50 rad/s
+
+### Angular acceleration α = 800 rad/s²
+
+### After entering the values, run the simulation to perform the displacement, velocity, and acceleration analysis of the slider crank mechanism.
+
+### The simulation will automatically calculate the velocity and acceleration of the slider and connecting rod based on the given crank motion.
+
+### Observe and record the results displayed by the simulation.
+
+### Analyze the graphical output such as velocity and acceleration diagrams provided by the virtual lab.
+
+### Note down the obtained results and include them in the GitHub report along with the simulation screenshot if required.
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/0e905314-0fc5-4e13-a513-67c95aced702)
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/590ca17d-5a31-427c-816d-975478542bcd)
