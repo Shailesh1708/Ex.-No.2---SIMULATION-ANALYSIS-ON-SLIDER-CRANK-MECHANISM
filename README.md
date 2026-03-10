@@ -55,8 +55,8 @@
 
 ### 10. Note down the obtained results and include them in the GitHub report along with the simulation screenshot if required.
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/0e905314-0fc5-4e13-a513-67c95aced702)
+<img width="546" height="544" alt="237948010-23ca1772-5a92-4b8b-a8bc-e149da33d297" src="https://github.com/user-attachments/assets/5faeb710-b5ca-4413-80ac-1213d520ea9d" />
 
-![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/590ca17d-5a31-427c-816d-975478542bcd)
 
 
 ## Velocity diagram
