@@ -39,7 +39,7 @@
 
 ###    Connecting rod length l = 600 mm
 
-###    Crank angle θ = (value from the diagram)
+###    Crank angle θ = 120
 
 ###    Angular velocity ω = 50 rad/s
 
